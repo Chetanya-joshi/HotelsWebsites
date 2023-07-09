@@ -57,7 +57,7 @@ const Header = () => {
                     className="headlink"
                   >
                     <Link to="/" style={{textDecoration:'none' , color:'teal' , fontWeight:'700' }} className="head">
-                    Home
+                    Homes
                     </Link>
                   </Nav.Link>
                   <Nav.Link className="headlink">
