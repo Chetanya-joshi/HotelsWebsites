@@ -1,0 +1,48 @@
+
+
+
+[
+    {
+        "id" : "1",
+        "images" : "../images/room1.webp",
+        "charges" : "2199",
+        "RoomType" : "Single Deluxe"
+    },
+
+    {
+        "id" : "2",
+        "images" : "../images/room2.webp",
+        "charges" : "350.00 / per night",
+        "RoomType" : "Double Deluxe"
+    },
+
+    {
+        "id" : "3",
+        "images" : "../images/room3.webp",
+        "charges" : "352.00 / per night",
+        "RoomType" : "Single Premium"
+    },
+
+    { 
+        "id" : "4",
+        "images" : "../images/room4.webp",
+        "charges" : "350.00 / per night",
+        "RoomType" : "Double Premium"
+    },
+ 
+    {
+        "id" : "5",
+        "images" : "../images/room5.webp",
+        "charges" : "350.00 / per night",
+        "RoomType" : "Clube Room"
+    },
+
+    {
+        "id" : "6",
+        "images" : "../images/room6.webp",
+        "charges" : "350.00 / per night",
+        "RoomType" : "Single Deluxe"
+    }
+
+    
+]
