@@ -6,6 +6,7 @@ import Contactindex from "../components/ContactUs";
 import Booking from "../h/Booking";
 import Room1 from "../h/room1";
 import BookingRoom from "../h/BookingRoom";
+import OurHotels from "../components/OurHotels";
 // import BookRoute from "../h/BookRoute";
 
 
@@ -20,6 +21,7 @@ const AppRoute = () => {
         <Route exact path="/reservation" element={<Booking />} />
         <Route path="/room1/:id" element={<Room1 />} />
         <Route path="/BookingRoom/:id" element={<BookingRoom />} />
+        <Route path="/OurRoom" element={<OurHotels />} />
       </Routes>
     </>
   );
