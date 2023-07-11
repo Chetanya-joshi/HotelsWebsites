@@ -44,7 +44,7 @@ export default function OurHotels() {
             <text className="text-white" style={{ fontSize: '21px' , width:'90%' }}>Nipponzan Myohoji Buddhist Temple, a serene sanctuary in the heart of Kolkata, invites you to experience the essence of peace and spirituality. Adorned with intricate architecture and lush gardens, this renowned temple offers a tranquil retreat for reflection and meditation, embracing the teachings of Buddhism.</text>
 
             <div className="mt-3">
-                <Button className="btn1" style={{border:'1px solid #fff' , background:'transparent' }}>Book Now</Button>
+                <Button className="btn1" style={{border:'1px solid #fff' , background:'transparent' }}>Explore</Button>
             </div>
           </Col>
 
@@ -64,7 +64,7 @@ export default function OurHotels() {
           <Col md={4} className="bg-success d-flex flex-column justify-content-center align-items-center text-justify" >
             <text className="text-white" style={{ fontSize: '21px' , width:'90%' }}>Discover the scenic beauty of Rabindra Sarovar Lake, an enchanting oasis in the bustling city of Kolkata. With its shimmering waters and lush surroundings, this beloved tourist spot offers a peaceful escape for nature lovers and a perfect setting for leisurely walks or serene boat rides. Immerse yourself in the tranquillity and serenity of this picturesque destination.</text>
             <div className="mt-3">
-                <Button className="btn" style={{border:'1px solid #fff' , background:'transparent' }}>Book Now</Button>
+                <Button className="btn" style={{border:'1px solid #fff' , background:'transparent' }}>Explore</Button>
             </div>
           </Col>
         </Row>
@@ -75,7 +75,7 @@ export default function OurHotels() {
           <Col md={4} className="bg-success d-flex flex-column justify-content-center align-items-center text-justify">
             <text className="text-white" style={{ fontSize: '21px' , width:'90%' }}>Step into the vibrant world of Vaayu Cafe, where boho vibes meet culinary delights, craft beer, and exhilarating games. Indulge in a gastronomic journey with our speciality dishes, sip on handcrafted brews, and engage in exciting games that add a playful touch to your experience. Embrace the bohemian spirit and let Vaayu Cafe be your haven of food, beer, and endless fun.</text>
             <div className="mt-3">
-                <Button className="btn" style={{border:'1px solid #fff' , background:'transparent' }}>Book Now</Button>
+                <Button className="btn" style={{border:'1px solid #fff' , background:'transparent' }}>Check Us Out</Button>
             </div>
           </Col>
 
